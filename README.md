@@ -19,3 +19,9 @@
 - Informações importantes.
 - Tutorial de como configurar o ambiente de aprendizado.
 - Baixar e Instalar os programas necessários.
+
+
+&nbsp;
+&nbsp;
+Em construção... 
+Aguarde novas atualizações.
