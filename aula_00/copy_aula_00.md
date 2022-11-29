@@ -4,7 +4,7 @@
 ---
 - Baixe o instalador do python clicando no icone indicado na imagem abaixo.
 
-![alternate text](/aula_00/download_link_python.png)
+![alternate text](/aula_00/Instalador_pyt_janelas/download_link_python.png)
 
 ## Passo 2
 ---
@@ -12,7 +12,7 @@
 
 Deve abrir a janela abaixo.
 
-![alternate text](/aula_00/Ativo_2Maior.png)
+![alternate text](/aula_00/Instalador_pyt_janelas/Ativo_2Maior.png)
 
 
 --- 
@@ -20,11 +20,11 @@ Deve abrir a janela abaixo.
 
 Vai aparecer a janela de progresso abaixo:
 
-![alternate text](/aula_00/Ativo_1maior.png)
+![alternate text](/aula_00/Instalador_pyt_janelas/Ativo_1maior.png)
 
 ---
 Tudo certo até aqui. Vai aparecer a seguinte tela:
-![alternate text](/aula_00/Janela_03_maior.png)
+![alternate text](/aula_00/Instalador_pyt_janelas/Janela_03_maior.png)
 
 - Clique em close ( Fechar ).
 
@@ -41,6 +41,6 @@ Abra o prompt de comando precionando a tecla Windows + R.
 
 Digite: **py --version**
 
-![alternate text](/aula_00/Janela_cmd_v.png)
+![alternate text](/aula_00/Instalador_pyt_janelas/Janela_cmd_v.png)
 
 Ok! Tudo Funcionando.
