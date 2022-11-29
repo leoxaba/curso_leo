@@ -46,3 +46,5 @@ Digite: **py --version**
 ![alternate text](/aula_00/Instalador_pyt_janelas/Janela_cmd_v.png)
 
 Ok! Tudo Funcionando.
+
+![Link](/aula_00/logo/lg_q_v1.1.png)
