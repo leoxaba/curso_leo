@@ -1,3 +1,5 @@
+![alternate text](/aula_00/logo/lg_q_v1.png)
+
 # Instalando o Python 3.11 no Windows
 
 ## Passo 1 
