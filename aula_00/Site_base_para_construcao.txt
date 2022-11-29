@@ -1,0 +1,3 @@
+Tutorial da aula 00 sendo criado a partir desse site.
+
+https://python.org.br/instalacao-windows/

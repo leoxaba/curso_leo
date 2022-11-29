@@ -4,7 +4,7 @@
 
 &nbsp;
 
-##  Capitulo 0
+##  Módulo 0
 ---
 
 - Informações importantes.
@@ -13,7 +13,7 @@
 - Tutorial de como instalar e ativar o Virtual Environment(**venv**).
 &nbsp;
 
-##  Capitulo 1
+##  Módulo 1
 ---
 
 - Informações importantes.
