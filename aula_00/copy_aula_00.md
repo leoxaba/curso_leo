@@ -1,4 +1,4 @@
-![alternate text](/aula_00/logo/lg_q_v1.png)
+| ![Link](/aula_00/logo/lg_q_v1.png) | iuahiuhaiu |
 
 # Instalando o Python 3.11 no Windows
 
