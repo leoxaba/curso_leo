@@ -39,7 +39,7 @@ Python instalado com sucesso.
 Agora vamos testar.
 
 
-Abra o prompt de comando precionando a tecla Windows + R.
+Abra o prompt de comando pressionando a tecla Windows + R.
 
 Digite: **py --version**
 
