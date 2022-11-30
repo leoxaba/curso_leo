@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>template_mail</title>
+
+    <style>
+        .page {
+            margin: 0 auto;
+            max-width: 1920px;
+            width: 100%;
+            background-color: white;
+            
+        }
+        .mail {
+            margin: 0 auto;
+            max-width: 1920px;
+            width: 40%;
+            background-color: white;
+            box-shadow: 5px 5px 25px rgb(153, 153, 153);
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .head {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            grid-auto-rows: minmax(100px, auto);
+            
+        }
+
+        .corpo {
+            margin: 0 auto;
+            max-width: 1920px;
+            width: 100%;
+            height: 500px;
+            background-color: rgb(255, 255, 255);
+            background-image: linear-gradient(150deg, rgba(255, 255, 255, 0.5), rgba(190, 190, 190, 0.5)), url("x");
+        }
+        .rodape {
+            margin: 0 auto;
+            max-width: 1920px;
+            width: 100%;
+            height: 120px;
+            background-color: rgb(27, 27, 27);
+                   
+        }
+
+        .cp_texto {
+            margin: 50px;
+            text-align: left;
+            font-size: 18px;
+        }
+        h1{
+            color: azure ;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 42pt;
+        }
+    </style>
+
+
+</head>
+<body>
+    <div class="page">
+        <div class="mail">
+            <div class="head">
+                <div class="esquerda">esq</div>
+                <div class="centro">cen</div>
+                <div class="direita">dir</div>
+            </div>
+    
+            <div class="corpo">  
+                <br>
+                <p class="cp_texto">Prezados, bom dia!</p>
+                <p class="cp_texto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, accusantium? Optio nulla iure ipsum ab minus soluta a dignissimos tempore voluptates, ipsa, delectus dolorum minima reprehenderit est explicabo alias praesentium?</p>
+            </div>
+    
+            <div class="rodape">
+                <br>           
+                <p style= "color: aliceblue ; text-align: center; font-size: 18px;">Contato</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
